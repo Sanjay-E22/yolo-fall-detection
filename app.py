@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, VideoProcessorBase, ClientSettings
+from streamlit_webrtc import webrtc_streamer, VideoProcessorBase
 from ultralytics import YOLO
 import av
 import cv2
